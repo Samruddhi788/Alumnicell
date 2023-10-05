@@ -1,0 +1,17 @@
+*{
+    background-color:rgba(0, 0, 0, 0.897) ;
+}
+
+.navbar-nav>h5{
+    color:  rgba(0, 145, 255, 0.788);
+    margin-left: 65px;
+    margin-right: 65px;
+  
+}
+.color{
+    background-color: rgba(0, 0, 0, 0.897);
+   
+}
+.container-fluid>a{
+    color: rgba(0, 145, 255, 0.788);
+}
